@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\temp4\\ChatClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\temp4\\ChatClient1\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lauri\\kurssimateriaali\\mtl2017-code\\ex3\\ChatClient\\ChatClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\Lauri\\kurssimateriaali\\mtl2017-code\\ex3\\ChatClient\\ChatClient1\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\tuomo\\Downloads\\ChatClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\tuomo\\Downloads\\ChatClient1\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    }
+]

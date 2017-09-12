@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">ChatClient</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_chat">ChatClient</string>
+    <string name="buttonText">Send Message</string>
+
+</resources>
